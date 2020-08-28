@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-TOKEN = "NzQ4Nzc1MjI5MzE2MjY4MDgy.X0iVRg.qA3IVneiR3Ez-vcMgTdWweMVZmE"
+TOKEN = "BOT TOKEN"
 
 client = discord.Client()
 
